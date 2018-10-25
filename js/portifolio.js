@@ -29,4 +29,9 @@ under MIT License. */
     offset: 54
   });
 
+  //Side Nav
+  $(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
+
 })(jQuery); // End of use strict
