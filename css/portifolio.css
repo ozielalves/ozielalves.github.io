@@ -1,0 +1,72 @@
+/* CSS take of the project https://github.com/BlackrockDigital/startbootstrap-scrolling-nav
+under MIT License. */
+
+header {
+  padding: 300px;
+  background: url("http://placehold.it/1280x853?text=Logo") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height:100%;
+}
+
+.thin-text {
+  font-weight: 200;
+  background: rgba(96, 125, 139, .4);
+  padding: 2px;
+  border-radius: 2px;
+}
+
+section {
+  padding: 100px 0;
+  text-align: justify;
+}
+
+.navbar, h2, h1 {
+  font-family: 'Ubuntu', sans-serif;
+  /*text-transform: uppercase;*/
+  font-weight: bold;
+  text-shadow: 0.06em 0.06em #333
+}
+
+.link {
+  text-decoration: underline;
+}
+
+h3, h4, h5, h6{
+  font-family: 'Open Sans', sans-serif;
+  /*text-transform: uppercase;*/
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.background-primary {
+  background-color: gray;
+  color: white;
+}
+
+.background-secondary {
+  background-color: white;
+  color: black;
+}
+
+ul.list-inline li {
+  display: inline;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 18px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+.progress-bar {
+  background-color: black;
+}
+
+#Logo {
+  font-family: 'Contrail One', cursive;
+}
