@@ -158,3 +158,8 @@ ul.list-inline li {
   left: 47%;
   transform: translate(-50%, -50%) rotate(-45deg);
 }
+
+a:link
+{
+text-decoration:none;
+}
